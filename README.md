@@ -48,5 +48,3 @@
 <p align="left">
   <img src="https://vercel.app" width="400" alt="GitHub Stats">
 </p>
-
-

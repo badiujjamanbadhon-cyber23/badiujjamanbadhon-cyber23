@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🛡️ Hi, I'm Md. Badiujjaman Badhon! 
 
-<!--
-**badiujjamanbadhon-cyber23/badiujjamanbadhon-cyber23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
+I am deeply passionate about cybersecurity, specializing in threat detection, incident response, network monitoring, and system forensics. I love analyzing security logs, hunting for threats, and building home labs to simulate real-world cyberattacks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Cyber Security Tools
+
+#### 🔵 Blue Teaming & Monitoring
+![Wazuh](https://shields.io)
+![Wireshark](https://shields.io)
+![Linux](https://shields.io)
+![Windows_Event_Logs](https://shields.io)
+
+#### 🐍 Programming & Scripting
+![Python](https://shields.io)
+![Bash](https://shields.io)
+
+---
+
+### 📊 Training & Hands-on Platforms
+* **TryHackMe:** [dragon02](https://tryhackme.com) 🎯
+* **Current Focus:** Building SIEM Labs, Windows Event Auditing, and Memory Forensics.
+
+---
+📫 **How to reach me:** badiujjaman.badhon.bd@gmail.com

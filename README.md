@@ -1,30 +1,52 @@
-# 🛡️ Hi, I'm Md. Badiujjaman Badhon! 
+# ⚡ Md. Badiujjaman Badhon
+
+<p align="left">
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://shields.io" alt="TryHackMe">
+  </a>
+  <a href="mailto:badiujjaman.badhon.bd@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
 
 ### 🚀 Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
-I am deeply passionate about cybersecurity, specializing in threat detection, incident response, network monitoring, and system forensics. I love analyzing security logs, hunting for threats, and building home labs to simulate real-world cyberattacks.
+> *Dedicated to monitoring enterprise environments, analyzing security telemetry, and identifying host/network-level artifacts to mitigate cyber threats.*
 
 ---
 
-### 🛠️ Tech Stack & Cyber Security Tools
+### 🛠️ Technical Skills & Toolkit
 
-```diff
-+ 🔵 BLUE TEAMING & MONITORING
-```
-`SIEM / XDR:` **Wazuh**  
-`Packet Analysis:` **Wireshark**  
-`Operating Systems:` **Linux (Ubuntu/Kali)** | **Windows**  
-`Telemetry & Logging:` **Windows Event Logs** | **Sysmon**  
-
-```diff
-+ 🐍 PROGRAMING & SCRIPTING
-```
-`Languages:` **Python** | **Bash Scripting**  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔵 Security Operations & Monitoring</h4>
+      <img src="https://shields.io" alt="Wazuh"> <br>
+      <img src="https://shields.io" alt="Wireshark"> <br>
+      <img src="https://shields.io" alt="Windows Logs"> <br>
+      <img src="https://shields.io" alt="Sysmon">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐍 Infrastructure & Scripting</h4>
+      <img src="https://shields.io" alt="Python"> <br>
+      <img src="https://shields.io" alt="Bash"> <br>
+      <img src="https://shields.io" alt="Linux"> <br>
+      <img src="https://shields.io" alt="Kali">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Training & Hands-on Platforms
-* **TryHackMe:** [dragon02](https://tryhackme.com) 🎯
-* **Current Focus:** Building SIEM Labs, Windows Event Auditing, and Memory Forensics.
+### 🎯 Hands-on Experience & Focus Areas
+- 💻 **Active Projects:** Building enterprise-grade SIEM telemetry pipelines using **Wazuh** and **Sysmon**.
+- 🔍 **DFIR Interest:** Conducting network traffic analysis (`.pcap`) and memory forensic investigation.
+- 🏆 **Continuous Learning:** Solving defensive security labs and incident response scenarios on **TryHackMe**.
 
 ---
-📫 **How to reach me:** badiujjaman.badhon.bd@gmail.com
+
+### 📈 GitHub Statistics
+<p align="left">
+  <img src="https://vercel.app" width="400" alt="GitHub Stats">
+</p>
+
+

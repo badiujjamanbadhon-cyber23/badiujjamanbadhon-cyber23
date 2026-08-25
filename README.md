@@ -8,6 +8,16 @@ I am deeply passionate about cybersecurity, specializing in threat detection, in
 ### 🛠️ Tech Stack & Cyber Security Tools
 
 #### 🔵 Blue Teaming & Monitoring
+* **SIEM / XDR:** Wazuh
+* **Packet Analysis:** Wireshark
+* **Operating Systems:** Linux (Ubuntu/Kali), Windows
+* **Telemetry:** Windows Event Logs, Sysmon
+
+#### 🐍 Programming & Scripting
+* **Languages:** Python, Bash Scripting
+
+
+#### 🔵 Blue Teaming & Monitoring
 ![Wazuh](https://shields.io)
 ![Wireshark](https://shields.io)
 ![Linux](https://shields.io)

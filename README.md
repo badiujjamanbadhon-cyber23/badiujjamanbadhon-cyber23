@@ -7,14 +7,18 @@ I am deeply passionate about cybersecurity, specializing in threat detection, in
 
 ### 🛠️ Tech Stack & Cyber Security Tools
 
-#### 🔵 Blue Teaming & Monitoring
-* **SIEM / XDR:** `Wazuh`
-* **Packet Analysis:** `Wireshark`
-* **Operating Systems:** `Linux (Ubuntu/Kali)` | `Windows`
-* **Telemetry & Logging:** `Windows Event Logs` | `Sysmon`
+```diff
++ 🔵 BLUE TEAMING & MONITORING
+```
+`SIEM / XDR:` **Wazuh**  
+`Packet Analysis:` **Wireshark**  
+`Operating Systems:` **Linux (Ubuntu/Kali)** | **Windows**  
+`Telemetry & Logging:` **Windows Event Logs** | **Sysmon**  
 
-#### 🐍 Programming & Scripting
-* **Languages:** `Python` | `Bash Scripting`
+```diff
++ 🐍 PROGRAMING & SCRIPTING
+```
+`Languages:` **Python** | **Bash Scripting**  
 
 ---
 
@@ -24,4 +28,3 @@ I am deeply passionate about cybersecurity, specializing in threat detection, in
 
 ---
 📫 **How to reach me:** badiujjaman.badhon.bd@gmail.com
-

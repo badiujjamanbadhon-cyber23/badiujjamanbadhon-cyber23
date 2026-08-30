@@ -1,20 +1,23 @@
 # ⚡ Md. Badiujjaman Badhon
 
 <p align="left">
-  <a href="https://tryhackme.com" target="_blank">
+  <a href="https://tryhackme.com/p/dragon02" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://www.linkedin.com/in/md-badiujjaman-badhon-528218219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:badiujjaman.badhon.bd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-### 🚀 Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
+###  Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
 > *Dedicated to monitoring enterprise environments, analyzing security telemetry, and identifying host/network-level artifacts to mitigate cyber threats.*
 
----
 
-### 🛠️ Technical Skills & Toolkit
+
+###  Technical Skills & Toolkit
 
 <table>
   <tr>
@@ -35,16 +38,26 @@
   </tr>
 </table>
 
----
 
-### 🎯 Hands-on Experience & Focus Areas
+
+###  Hands-on Experience & Focus Areas
 - 💻 **Active Projects:** Building enterprise-grade SIEM telemetry pipelines using **Wazuh** and **Sysmon**.
 - 🔍 **DFIR Interest:** Conducting network traffic analysis (`.pcap`) and memory forensic investigation.
 - 🏆 **Continuous Learning:** Solving defensive security labs and incident response scenarios on **TryHackMe**.
 
----
 
-### 📈 GitHub Statistics
+###  Badges & GitHub Stats
+
 <p align="left">
+  <!-- TryHackMe Dynamic Profile Badge -->
+  <a href="https://tryhackme.com/p/dragon02" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/dragon02.png" alt="TryHackMe Badge" width="360">
+  </a>
+</p>
+
+<br>
+
+<p align="left">
+  <!-- GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=badiujjamanbadhon-cyber23&show_icons=true&theme=dark" width="450" alt="GitHub Stats">
 </p>

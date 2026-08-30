@@ -12,12 +12,12 @@
   </a>
 </p>
 
-###  Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
+### 🚀 Aspiring SOC Analyst & Digital Forensics (DFIR) Professional
 > *Dedicated to monitoring enterprise environments, analyzing security telemetry, and identifying host/network-level artifacts to mitigate cyber threats.*
 
+---
 
-
-###  Technical Skills & Toolkit
+### 🛠️ Technical Skills & Toolkit
 
 <table>
   <tr>
@@ -38,15 +38,16 @@
   </tr>
 </table>
 
+---
 
-
-###  Hands-on Experience & Focus Areas
+### 🎯 Hands-on Experience & Focus Areas
 - 💻 **Active Projects:** Building enterprise-grade SIEM telemetry pipelines using **Wazuh** and **Sysmon**.
 - 🔍 **DFIR Interest:** Conducting network traffic analysis (`.pcap`) and memory forensic investigation.
 - 🏆 **Continuous Learning:** Solving defensive security labs and incident response scenarios on **TryHackMe**.
 
+---
 
-###  Badges & GitHub Stats
+### 📊 Badges & Analytics
 
 <p align="left">
   <!-- TryHackMe Dynamic Profile Badge -->
@@ -58,20 +59,6 @@
 <br>
 
 <p align="left">
-  <!-- GitHub Profile Stats -->
-
-
-
-### Detailed GitHub Analytics
-
-<p align="left">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/top-langs/?username=badiujjamanbadhon-cyber23&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="left">
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiujjamanbadhon-cyber23&theme=dark" alt="GitHub Streak" />
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=badiujjamanbadhon-cyber23&show_icons=true&theme=dark" width="450" alt="GitHub Stats">
 </p>

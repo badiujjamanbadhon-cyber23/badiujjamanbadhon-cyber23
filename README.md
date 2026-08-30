@@ -17,6 +17,13 @@
 
 ---
 
+### 📂 Featured Cyber Security Projects
+
+- 🛡️ **[Enterprise SIEM Telemetry Pipeline (Wazuh + Sysmon)](https://github.com/badiujjamanbadhon-cyber23/Wazuh-Sysmon-SIEM-Lab)**  
+  *Built an enterprise telemetry logging solution using Wazuh SIEM & Sysmon to analyze endpoint attack vectors.*
+
+---
+
 ### 🛠️ Technical Skills & Toolkit
 
 <table>

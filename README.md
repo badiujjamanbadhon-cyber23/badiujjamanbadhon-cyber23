@@ -59,5 +59,19 @@
 
 <p align="left">
   <!-- GitHub Profile Stats -->
+
+
+
+### Detailed GitHub Analytics
+
+<p align="left">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/top-langs/?username=badiujjamanbadhon-cyber23&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiujjamanbadhon-cyber23&theme=dark" alt="GitHub Streak" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=badiujjamanbadhon-cyber23&show_icons=true&theme=dark" width="450" alt="GitHub Stats">
 </p>
